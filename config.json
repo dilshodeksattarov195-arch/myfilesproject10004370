@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderftringify",
+        "uuid": 38228760,
+        "checksum": "ntvqlf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
